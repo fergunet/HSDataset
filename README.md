@@ -1,0 +1,2 @@
+# HSDataset
+Hearthstone Decks Dataset
